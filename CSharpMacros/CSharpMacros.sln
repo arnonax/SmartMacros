@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpMacroExpanderCustomTool", "CSharpMacroExpanderCustomTool\CSharpMacroExpanderCustomTool.csproj", "{54120EAF-2DB0-4010-824D-477A748FDE6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.CSharp.CompilerAPI", "Microsoft.CSharp.CompilerAPI\Microsoft.CSharp.CompilerAPI.csproj", "{BDC660F6-109D-4B49-89F6-5F231DF381BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrammarGenerator", "GrammarGenerator\GrammarGenerator.csproj", "{24AD81AA-5243-4AA6-BF0B-08A3A0DC0529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54120EAF-2DB0-4010-824D-477A748FDE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54120EAF-2DB0-4010-824D-477A748FDE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54120EAF-2DB0-4010-824D-477A748FDE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54120EAF-2DB0-4010-824D-477A748FDE6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC660F6-109D-4B49-89F6-5F231DF381BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC660F6-109D-4B49-89F6-5F231DF381BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC660F6-109D-4B49-89F6-5F231DF381BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC660F6-109D-4B49-89F6-5F231DF381BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24AD81AA-5243-4AA6-BF0B-08A3A0DC0529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24AD81AA-5243-4AA6-BF0B-08A3A0DC0529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24AD81AA-5243-4AA6-BF0B-08A3A0DC0529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24AD81AA-5243-4AA6-BF0B-08A3A0DC0529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
